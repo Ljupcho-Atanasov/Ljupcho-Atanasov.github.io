@@ -8,7 +8,7 @@
 
          > **Fun fact:**
             *- I used to do a lot of stand-up comedy until COVID-19 hit. By then I started getting bookings and was performing and hosting comedy shows around the city. I haven’t gone back to it since I committed to obtaining my computer science bachelor’s degree.*
-                [Watch a short set](https://youtu.be/RFoB3TBGZGQ).
+                [*Watch a short set.*](https://youtu.be/RFoB3TBGZGQ)
   
 2. **Link to my resume**
    - [Resume: Ljupcho Atanasov](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FLjupcho-Atanasov%2FLjupcho-Atanasov.github.io%2Fmain%2FResume%2520-%2520Ljupcho%2520Atanasov.docx&wdOrigin=BROWSELINK)

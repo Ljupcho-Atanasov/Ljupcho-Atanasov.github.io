@@ -7,7 +7,7 @@
       - [Long Dance Journey in a short, small package. ](https://youtu.be/NS2KevSf4Ew)
 
          > **Fun fact:**
-            - I used to do a lot of stand-up comedy until COVID-19 hit. By then I started getting bookings and was performing and hosting comedy shows around the city. I haven’t gone back to it since I committed to obtaining my computer science bachelor’s degree.
+            *- I used to do a lot of stand-up comedy until COVID-19 hit. By then I started getting bookings and was performing and hosting comedy shows around the city. I haven’t gone back to it since I committed to obtaining my computer science bachelor’s degree.*
                 [Watch a short set](https://youtu.be/RFoB3TBGZGQ).
   
 2. **Link to my resume**

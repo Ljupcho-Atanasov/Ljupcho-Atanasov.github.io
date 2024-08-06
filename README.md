@@ -10,6 +10,7 @@
   
 3. **Link to my resume**
    - [Resume_Ljupcho_Atanasov](https://github.com/Ljupcho-Atanasov/Ljupcho-Atanasov.github.io/blob/main/Resume%20-%20Ljupcho%20Atanasov.pdf)
+   - [Resume: Ljupcho Atanasov](https://1drv.ms/b/s!Ajw3FZuyg3EpxArBzISNO3dydqkj?e=fAFUfM)
   
 4. **My LinkedIn Profile**
    - [Ljupcho's LinkedIn](https://www.linkedin.com/in/ljupcho-atanasov/)

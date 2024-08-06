@@ -9,9 +9,8 @@
    - I used to do a lot of stand-up comedy until COVID-19 hit. By then I started getting bookings and was performing and hosting comedy shows around the city. I haven’t gone back to it since I committed to obtaining my computer science bachelor’s degree.
   
 3. **Link to my resume**
-   - [Resume_Ljupcho_Atanasov](https://github.com/Ljupcho-Atanasov/Ljupcho-Atanasov.github.io/blob/main/Resume%20-%20Ljupcho%20Atanasov.pdf)
-   - [Resume: Ljupcho Atanasov](https://1drv.ms/b/s!Ajw3FZuyg3EpxArBzISNO3dydqkj?e=fAFUfM)
-  
+   - [Resume: Ljupcho Atanasov](https://github.com/Ljupcho-Atanasov/Ljupcho-Atanasov.github.io/blob/main/Resume%20-%20Ljupcho%20Atanasov.pdf)
+ 
 4. **My LinkedIn Profile**
    - [Ljupcho's LinkedIn](https://www.linkedin.com/in/ljupcho-atanasov/)
 

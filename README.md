@@ -1,6 +1,6 @@
 <img src = "https://github.com/user-attachments/assets/e9182644-eb66-420e-b66c-bce9b8b36764" width="250" hight="250">
 # Ljupcho Atanasov *(graduating December 2024)*
-####### Ljupcho-Atanasov.github.io
+###### Ljupcho-Atanasov.github.io
 
 1. **Short Bio:**
    - I've had a long, fruitful, and fun career in the Dance industry since a very young age. Along the way learned to be a team player, leader, effective communicator, structured and demanding teacher and project manager including group projects involving 30+ people. Proud of my vast artistic creativity through my original choreography and found a very important pragmatic place for it in any problem-solving challenges.

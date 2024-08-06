@@ -3,7 +3,7 @@
 ###### Ljupcho-Atanasov.github.io
 
 1. **Short Bio:**
-   > I've been fortunate enough to have a long, fruitful, and fun career in the dance industry since a very young age after being a national ballroom champion for a little less than a decade. Along the way I learned to be a team player, diligent and hard worker, effective communicator, leader, structured and demanding teacher and project manager including group projects involving 30+ people. I am proud of my vast artistic creativity acquired and rendered through my original choreography in countless dance projects. Most importantly, I found a very important pragmatic usage for it in any problem-solving challenge.
+   - I've been fortunate enough to have a long, fruitful, and fun career in the dance industry since a very young age after being a national ballroom champion for a little less than a decade. Along the way I learned to be a team player, diligent and hard worker, effective communicator, leader, structured and demanding teacher and project manager including group projects involving 30+ people. I am proud of my vast artistic creativity acquired and rendered through my original choreography in countless dance projects. Most importantly, I found a very important pragmatic usage for it in any problem-solving challenge.
       - [Long Dance Journey in a short, small package. ](https://youtu.be/NS2KevSf4Ew)
 
          > **Fun fact:**

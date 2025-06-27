@@ -15,7 +15,7 @@
                 [*Watch a short set.*](https://youtu.be/RFoB3TBGZGQ)
   
 2. **Link to my resume**
-   - [Resume: Ljupcho Atanasov](https://github.com/Ljupcho-Atanasov/Ljupcho-Atanasov.github.io/blob/main/Resume%20-%20Ljupcho%20Atanasov.pdf)
+   - [Resume: Ljupcho Atanasov](https://github.com/Ljupcho-Atanasov/Ljupcho-Atanasov.github.io/blob/main/Resume_Ljupcho%20Atanasov.pdf)
  
 3. **My LinkedIn Profile**
    - [Ljupcho's LinkedIn](https://www.linkedin.com/in/ljupcho-atanasov/)
